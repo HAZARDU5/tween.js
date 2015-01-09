@@ -1,0 +1,21 @@
+{
+  "name": "TWEEN",
+  "version": "0.15.0",
+  "homepage": "https://github.com/hazardu5/tween.js",
+  "authors": [
+    "Sole (http://soledadpenades.com/)"
+  ],
+  "description": "Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.",
+  "main": "build/tween.min.js",
+  "keywords": [
+    "tween",
+    "animation"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "test",
+    "utils"
+  ]
+}
